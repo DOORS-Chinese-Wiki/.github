@@ -12,12 +12,7 @@
 
 ## 002 · 社群
 
-| 平台 | 用途 | 入口 |
-| --- | --- | --- |
-| **QQ 交流群** | 日常交流、编辑协作与视频计划讨论 | **[加入](https://qm.qq.com/q/JVUedAJkoE)** |
-| **Discord** | 跨平台即时交流 | **[加入](https://discord.gg/SpKAgJDuVn)** |
-| **哔哩哔哩** | 条目视频化计划与官方投稿 | **[关注](https://space.bilibili.com/3706993330096130)** |
-| **X（原 Twitter）** | 关注站点动态 | **[关注](https://x.com/DoorsWikiZH)** |
+[![QQ 交流群](assets/social/qq.png)](https://qm.qq.com/q/JVUedAJkoE) [![Discord](assets/social/discord.png)](https://discord.gg/SpKAgJDuVn) [![哔哩哔哩](assets/social/bilibili.png)](https://space.bilibili.com/3706993330096130) [![X（原 Twitter）](assets/social/x.png)](https://x.com/DoorsWikiZH)
 
 ## 003 · 项目档案
 
