@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <strong>**DOORS 中文维基**是面向中文社区的 官方DOORS游戏维基,本组织托管 DOORS 中文维基自有和相关项目</strong>
+  <strong>DOORS 中文维基是面向中文社区的 官方DOORS游戏维基,本组织托管 DOORS 中文维基自有和相关项目</strong>
 </p>
