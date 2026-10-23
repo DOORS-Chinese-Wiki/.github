@@ -1,4 +1,4 @@
-[![DOORS 中文维基：为中文玩家整理、校订与传播 DOORS 知识](assets/hero.webp)](https://zh.doorsgame.wiki/wiki/DOORS_Wiki)
+[![DOORS 中文维基](assets/logo.png)](https://zh.doorsgame.wiki/wiki/DOORS_Wiki)
 
 **DOORS 中文维基**是面向中文玩家的 DOORS 资料站点。我们整理游戏条目，校订译名与数据，并维护与站点相关的工具项目。
 
